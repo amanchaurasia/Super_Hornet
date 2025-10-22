@@ -12,7 +12,7 @@ A dedicated **Senior Data Analyst** based in **Santa Clara, USA**. I specialize 
 | :--- | :--- | :--- |
 | **Learning Goal** | **Mastering advanced predictive models** using ensemble methods and deep learning for more accurate long-term forecasting. | Python, Scikit-learn, TensorFlow/PyTorch |
 | **Data Projects** | Building end-to-end data pipelines for automated root cause analysis reporting. | PostgreSQL, Docker, Python |
-| **Cloud** | Enhancing infrastructure management using **Terraform** on **GCP** for reproducible data environments. | Terraform, GCP, Kubernetes |
+| **Cloud** | Enhancing infrastructure management using **BigQuery** on **GCP** for reproducible data environments. | Terraform, GCP, Kubernetes |
 
 ---
 
